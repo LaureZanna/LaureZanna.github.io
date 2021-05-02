@@ -32,6 +32,14 @@
     </item>
     
     <item>
+      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
+      <link>https://LaureZanna.github.io/publication/guillaumin-zanna-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/guillaumin-zanna-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climate Process Team</title>
       <link>https://LaureZanna.github.io/project/cptoceaneddies/</link>
       <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
@@ -110,6 +118,21 @@ temperatures or sea level? (e.g., &lt;a href=&#34;https://laurezanna.github.io/p
 &lt;p&gt;How to best describe forced-dissipative turbulent system from their
 statistics? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2018&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mentoring &#43; DEI Activities</title>
+      <link>https://LaureZanna.github.io/project/mentoring&#43;dei/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/mentoring&#43;dei/</guid>
+      <description>&lt;p&gt;Selected programs that we participate in and might be of interest to our community&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NYU CDS Undergraduate Research Program (&lt;a href=&#34;https://github.com/LaureZanna/starter-academic/new/master/content/project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CURP&lt;/a&gt;) in partnership with the National Society of Black Physicists (NSBP);&lt;/li&gt;
+&lt;li&gt;Unlearning Racism in Geoscience (&lt;a href=&#34;https://urgeoscience.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URGE&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;Mentoring Physical Oceanography Women to Increase Retention (&lt;a href=&#34;http://mpowir.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPOWIR&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;NYU &lt;a href=&#34;https://cas.nyu.edu/content/nyu-as/cas/proudtobefirst.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proud to be First&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -501,15 +524,7 @@ Our study indicates that data-driven approaches can be exploited to predict both
       <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
-      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates, while ocean models are limited by finite resolution and high viscosity and diffusion coefficients. Therefore both data from observations and ocean models lack information at small- and fast-scales.
-Methods are needed to either extract information, extrapolate, or up-scale existing oceanographic datasets, to account for or represent unresolved physical processes.
-Here we use machine learning to leverage observations and model data by predicting unresolved turbulent processes and sub-surface flow fields.
-As a proof-of-concept, we train convolutional neural networks on degraded-data from a high-resolution quasi-geostrophic ocean model.
-We demonstrate that convolutional neural networks successfully replicate the spatio-temporal variability of the sub-grid eddy momentum forcing, are capable of generalising to a range of dynamical behaviours, and can be forced to respect global momentum conservation.
-The training data of our convolutional neural networks can be sub-sampled to 10-20% of the original size without a significant decreasein accuracy.&lt;/p&gt;
-&lt;p&gt;We also show that the sub-surface flow field can be predicted using only information at the surface (e.g., using only satellite altimetry data).
-Our study indicates that data-driven approaches can be exploited to predict both sub-grid and large-scale processes, while respecting physical principles, even when data is limited to a particular region or external forcing. Our in-depth study presents evidence for the successful design of ocean eddy parameterisations for implementation in coarse-resolution climate models.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -845,6 +860,22 @@ We find that the stochastically perturbed parameterization tendency (SPPT) schem
       <link>https://LaureZanna.github.io/publication/zanna-tziperman-2005/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
       <guid>https://LaureZanna.github.io/publication/zanna-tziperman-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBD</title>
+      <link>https://LaureZanna.github.io/author/tbd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/author/tbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBD</title>
+      <link>https://LaureZanna.github.io/author/tbd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/author/tbd/</guid>
       <description></description>
     </item>
     
